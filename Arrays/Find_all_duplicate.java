@@ -1,7 +1,6 @@
-
-
 import java.util.ArrayList;
 import java.util.List;
+
 //442 Microsoft
 
 public class Find_all_duplicate {
@@ -35,5 +34,6 @@ public class Find_all_duplicate {
         nums[correct]=temp;
     }
 }
+
 
 
